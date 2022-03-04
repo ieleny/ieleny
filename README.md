@@ -59,7 +59,6 @@ Sou desenvolvedora full stack, já trabalhei com diversas tecnologias entre elas
   <img align="center" alt="ieleny-vuejs" height="40" width="120" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img align="center" alt="ieleny-bootstrap" height="40" width="125" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="ieleny-jquery" height="40" width="120" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img align="center" alt="ieleny-scrum" height="35" width="90" src="https://badgen.net/badge/icon/Ajax?icon=ajax&label">
   
   ### C#
   <img align="center" alt="ieleny-dotnet" height="40" width="120" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
