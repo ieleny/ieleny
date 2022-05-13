@@ -68,7 +68,9 @@ Sou desenvolvedora full stack, já trabalhei com diversas tecnologias entre elas
 <hr>
 
  ### Tecnologias que estou me desenvolvendo:
- <img align="center" alt="ieleny-aws" height="40" width="140" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
- <img align="center" alt="ieleny-kotlin" height="40" width="140" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-
+ <img align="center" alt="ieleny-C#" height="35" width="90" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+ <img align="center" alt="ieleny-dotnet" height="40" width="120" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+ <img align="center" alt="ieleny-react" height="40" width="120" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react">
+  
+  
 
