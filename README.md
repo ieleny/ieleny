@@ -5,15 +5,21 @@ Sou desenvolvedora full stack, já trabalhei com diversas tecnologias entre elas
 
 <div align="center">
   <a href="https://github.com/ieleny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ieleny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieleny&layout=compact&langs_count=7&theme=dracula"/>
+     <img height="180em" src="https://github-readme-stats-5r2inpk8r-ieleny.vercel.app/api?username=ieleny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a>
+  <a href="https://github.com/ieleny">
+     <img height="180em" src="https://github-readme-stats-5r2inpk8r-ieleny.vercel.app/api/top-langs/?username=ieleny&layout=compact&langs_count=7&theme=dracula"/>
+  <a>
 </div>
 
 <hr>
   
 ### Metodologias Ágeis:
-<img align="center" alt="ieleny-scrum" height="35" width="90" src="https://badgen.net/badge/icon/Scrum?icon=scrum&label">
-<img align="center" alt="ieleny-kanban" height="35" width="90" src="https://badgen.net/badge/icon/Kanban?icon=kanban&label">
+
+<div>
+  <img align="center" alt="ieleny-scrum" height="45" width="90" src="https://badgen.net/badge/icon/Scrum?icon=scrum&label">
+  <img align="center" alt="ieleny-kanban" height="45" width="90" src="https://badgen.net/badge/icon/Kanban?icon=kanban&label">
+</div>
   
 <hr>
   
@@ -28,12 +34,12 @@ Sou desenvolvedora full stack, já trabalhei com diversas tecnologias entre elas
    <img align="center" alt="ieleny-html" height="35" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img align="center" alt="ieleny-javascript" height="35" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    <img align="center" alt="ieleny-css" height="35" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
   
   #### Banco de dados:
   <img align="center" alt="ieleny-mysql" height="38" width="100" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="ieleny-postresgree" height="38" width="120" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align="center" alt="ieleny-myserver" height="38" width="150" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img align="center" alt="ieleny-myserver" height="35" width="150" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+</div>
   
   #### Containers:
   <img align="center" alt="ieleny-docker" height="35" width="100" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
@@ -68,9 +74,11 @@ Sou desenvolvedora full stack, já trabalhei com diversas tecnologias entre elas
 <hr>
 
  ### Tecnologias que estou me desenvolvendo:
- <img align="center" alt="ieleny-C#" height="35" width="90" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
- <img align="center" alt="ieleny-dotnet" height="40" width="120" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
- <img align="center" alt="ieleny-react" height="40" width="120" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react">
+ <div>
+   <img align="center" alt="ieleny-C#" height="40" width="120" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+   <img align="center" alt="ieleny-dotnet" height="40" width="120" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+   <img align="center" alt="ieleny-react" height="40" width="120" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react">
+ </div>
   
   
 
