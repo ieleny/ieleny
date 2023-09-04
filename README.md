@@ -65,6 +65,7 @@ Sou desenvolvedora full stack, já trabalhei com diversas tecnologias entre elas
   <img align="center" alt="ieleny-vuejs" height="40" width="120" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img align="center" alt="ieleny-bootstrap" height="40" width="125" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="ieleny-jquery" height="40" width="120" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img align="center" alt="ieleny-react" height="40" width="120" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react">
   
   ### C#
   <img align="center" alt="ieleny-dotnet" height="40" width="120" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
@@ -77,7 +78,6 @@ Sou desenvolvedora full stack, já trabalhei com diversas tecnologias entre elas
  <div>
    <img align="center" alt="ieleny-C#" height="40" width="120" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
    <img align="center" alt="ieleny-dotnet" height="40" width="120" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-   <img align="center" alt="ieleny-react" height="40" width="120" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react">
  </div>
   
   
