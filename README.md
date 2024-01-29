@@ -76,10 +76,5 @@ Sou desenvolvedora full stack, já trabalhei com diversas tecnologias entre elas
 <hr>
 
  ### Tecnologias que estou me desenvolvendo:
- <div>
-   <img align="center" alt="ieleny-C#" height="40" width="120" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-   <img align="center" alt="ieleny-dotnet" height="40" width="120" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
- </div>
-  
   
 
