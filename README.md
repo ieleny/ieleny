@@ -27,8 +27,8 @@ Sou desenvolvedora full stack, já trabalhei com diversas tecnologias entre elas
 <div style="display: inline_block; ">
    
    #### Back-end:
-   <img align="center" alt="ieleny-php" height="35" width="90" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-   <img align="center" alt="ieleny-C#" height="35" width="90" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+   <img align="center" alt="ieleny-php" height="30" width="70" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+   <img align="center" alt="ieleny-C#" height="30" width="70" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   
    #### Front-end:
    <img align="center" alt="ieleny-html" height="35" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
