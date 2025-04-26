@@ -29,11 +29,13 @@ Sou desenvolvedora full stack, já trabalhei com diversas tecnologias entre elas
    #### Back-end:
    <img align="center" alt="ieleny-php" height="30" width="70" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
    <img align="center" alt="ieleny-C#" height="30" width="70" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+   <img align="center" alt="ieleny-node" height="30" width="87" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   
    #### Front-end:
-   <img align="center" alt="ieleny-html" height="35" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img align="center" alt="ieleny-html" height="35" width="95" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img align="center" alt="ieleny-javascript" height="35" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    <img align="center" alt="ieleny-css" height="35" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   <img align="center" alt="ieleny-typescript" height="30" width="120" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
   
   #### Banco de dados:
   <img align="center" alt="ieleny-mysql" height="38" width="100" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -46,10 +48,11 @@ Sou desenvolvedora full stack, já trabalhei com diversas tecnologias entre elas
   
   #### Ferramentas:
   <img align="center" alt="ieleny-composer" height="35" width="120" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white">
+  <img align="center" alt="ieleny-npm" height="35" width="120" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   
   #### Testes:
   <img align="center" alt="ieleny-cypress" height="35" width="120" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
-  <img align="center" alt="ieleny-cypress" height="35" width="120" src="https://img.shields.io/badge/Jest-17202C?style=for-the-badge&logo=jest&logoColor=white">
+  <img align="center" alt="ieleny-jest" height="35" width="120" src="https://img.shields.io/badge/Jest-17202C?style=for-the-badge&logo=jest&logoColor=white">
   
 
 <hr>
@@ -62,11 +65,14 @@ Sou desenvolvedora full stack, já trabalhei com diversas tecnologias entre elas
   <img align="center" alt="ieleny-codeigniter" height="40" width="125" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
   <img align="center" alt="ieleny-symphony" height="40" width="120" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white">
   
-  ### Javascript
+  ### Javascript && Typescript
   <img align="center" alt="ieleny-vuejs" height="40" width="120" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img align="center" alt="ieleny-bootstrap" height="40" width="125" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="ieleny-jquery" height="40" width="120" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img align="center" alt="ieleny-react" height="40" width="120" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white">
+  <img align="center" alt="ieleny-next" height="40" width="120" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">
+  <img align="center" alt="ieleny-tailwind" height="30" width="120" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img align="center" alt="ieleny-material-ui" height="30" width="120" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
   
   ### C#
   <img align="center" alt="ieleny-dotnet" height="40" width="120" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
